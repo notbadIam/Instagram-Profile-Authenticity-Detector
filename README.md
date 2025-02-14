@@ -1,1 +1,1 @@
-# nstagram-Profile-Authenticity-Detector
+# Instagram-Profile-Authenticity-Detector
